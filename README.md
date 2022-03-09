@@ -12,7 +12,7 @@ Here we provide papers that generate or analyze the four GNN models respectively
 
 ## Codes
 
-This directory contains code necessary to run the GCN and GraphSage algorithm.
+This directory contains code necessary to run the different GNN models.
 
 ***Note:*** The code of the GNN models  here are quoted from the open source code provided by other authors. Here we list the URL of their open source code repository, and more details can be obtained from it.
 
@@ -21,3 +21,10 @@ This directory contains code necessary to run the GCN and GraphSage algorithm.
 3. **graphsage**：[williamleif/GraphSAGE: Representation learning on large graphs using stochastic graph convolutions. (github.com)](https://github.com/williamleif/GraphSAGE)
 
 ## Dataset
+
+The PageRank dataset used in the papey is a small dataset generated form the DGL  tutorials. Here we provide the code to generate this dataset using the DGL library
+
+**PageRank dataset**
+
+***Node:*** 100
+***Edge:*** 629
