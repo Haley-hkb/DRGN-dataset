@@ -14,9 +14,10 @@ Here we provide papers that generate or analyze the four GNN models respectively
 
 This directory contains code necessary to run the GCN and GraphSage algorithm.
 
-***Note:*** The code of the GCN model and the GraphSage model here are quoted from the open source code provided by other authors. Here we list the URL of their open source code repository, and more details can be obtained from it.
+***Note:*** The code of the GNN models  here are quoted from the open source code provided by other authors. Here we list the URL of their open source code repository, and more details can be obtained from it.
 
-1. **gcn**：[tkipf/gcn: Implementation of Graph Convolutional Networks in TensorFlow (github.com)](https://github.com/tkipf/gcn)
-2. **graphsage**：[williamleif/GraphSAGE: Representation learning on large graphs using stochastic graph convolutions. (github.com)](https://github.com/williamleif/GraphSAGE)
+1. **gcn_n**：[tkipf/gcn: Implementation of Graph Convolutional Networks in TensorFlow (github.com)](https://github.com/tkipf/gcn)
+2. **gcn_g**：[weihua916/powerful-gnns: How Powerful are Graph Neural Networks? (github.com)](https://github.com/weihua916/powerful-gnns)
+3. **graphsage**：[williamleif/GraphSAGE: Representation learning on large graphs using stochastic graph convolutions. (github.com)](https://github.com/williamleif/GraphSAGE)
 
 ## Dataset
