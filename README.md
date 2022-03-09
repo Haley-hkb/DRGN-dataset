@@ -22,7 +22,7 @@ This directory contains code necessary to run the different GNN models.
 
 ## Dataset
 
-The PageRank dataset used in the papey is a small dataset generated form the DGL  tutorials. Here we provide the code to generate this dataset using the DGL library
+The PageRank dataset used in the paper is a small dataset generated form the DGL  tutorials. Here we provide the code to generate this dataset using the DGL library
 
 **PageRank dataset**
 
