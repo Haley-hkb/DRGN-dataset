@@ -27,4 +27,5 @@ The PageRank dataset used in the papey is a small dataset generated form the DGL
 **PageRank dataset**
 
 ***Node:*** 100
+
 ***Edge:*** 629
